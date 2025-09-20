@@ -1,4 +1,5 @@
-![Header](./header.jpg)
+<img src="https://github.com/reinarins/reinarins/blob/main/github%20banner.jpg" alt="Iris GitHub header" width="800">
+
 
 Hi! I'm Iris <br>
 A <b>Junior RPA Developer</b> currently working on personal automation projects with a human touch 💻💚
