@@ -1,4 +1,4 @@
-<img src="https://github.com/reinarins/reinarins/blob/main/github%20banner.jpg" alt="Iris GitHub header" width="800">
+<img src="https://github.com/reinarins/reinarins/blob/main/github_banner.jpg" alt="Iris GitHub header" width="800">
 
 
 Hi! I'm Iris <br>
