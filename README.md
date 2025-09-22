@@ -52,12 +52,33 @@
 ---
 
 # Updated Projects
-- <b>Password Checker</b> 🔐
-  <br>Automated password evaluation via the Kaspersky Password Checker website<br><br>
-- <b>Smart Café Station</b> ☕
-  <br>Eager for a cup of coffee? This automated solution is ready to order it for you<br><br>
-- <b>MiniBiblioteca Alexandria</b> 📚
-  <br>Personal digital library automation project: organize, search, and manage your favorite books efficiently! 💛
+- <b>Automation Interest Check</b> ✨ <br>
+  Microsoft Forms + Power Automate integration to gather user input, log results in Excel, and send confirmation emails.<br>
+  <b>Tools used:</b> Power Automate, Microsoft Forms, Excel Online.<br>
+  ✅ Completed — includes screenshots, workflow exports, and sample outputs.<br>
+  [View repository](https://github.com/reinarins/Automation_Interest_Check)
+- <b>Save Email Attachments</b> 📩 <br>
+  Power Automate flow that saves incoming email attachments directly to OneDrive.<br> 
+  <b>Tools used:</b> Power Automate, OneDrive.<br> 
+  ✅ Completed — includes exported package and screenshots.<br>
+  [View repository](https://github.com/reinarins/SaveEmailAttachments)
+- <b>MiniBiblioteca Alexandria</b> 📚 <br>
+  Personal digital library automation project: organize, search, and manage your favorite books efficiently!<br>
+  <b>Tools used:</b> UiPath Studio, SQL Server Management Studio, Power BI.<br>
+  ⚙️ WIP — adding metadata parsing and enhanced search features.<br>
+  📸 Includes screenshots in the repo.<br>
+  [View repository](https://github.com/reinarins/MiniBibliotecaAlexandria)
+- <b>Smart Café Station</b> ☕ <br>
+  Full RPA workflow to simulate café orders: processes inputs from a web form and handles them automatically.<br>
+  <b>Tools used:</b> UiPath Studio (State Machines).<br>
+  ✅ Completed — Includes demo screenshots in the repo.<br> 
+  [View repository](https://github.com/reinarins/UiPath_CoffeeShop)
+- <b>Password Checker</b> 🔐 <br>
+  RPA workflow that evaluates password strength following Kaspersky’s security guidelines.<br>
+  <b>Tools used:</b> UiPath Studio (REFramework).<br> 
+  ✅ Completed — tested with 50+ passwords.<br>
+  [View repository](https://github.com/reinarins/ProjectKaspersky_REF)
+
 
   ---
   
